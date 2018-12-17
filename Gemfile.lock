@@ -114,6 +114,7 @@ GEM
     notiffany (0.1.1)
       nenv (~> 0.1)
       shellany (~> 0.0)
+    openssl (2.1.2)
     pg (0.20.0)
     pry (0.12.2)
       coderay (~> 1.1.0)
@@ -214,6 +215,7 @@ DEPENDENCIES
   listen (= 3.1.5)
   minitest (= 5.10.3)
   minitest-reporters (= 1.1.14)
+  openssl
   pg (= 0.20.0)
   puma (= 3.9.1)
   rails (= 5.1.6)
